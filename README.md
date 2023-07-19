@@ -19,7 +19,7 @@ This is a solution to the [Age Calculator App](https://www.frontendmentor.io/cha
 
 ## 👨‍💻 Author
 
-- Gibhub - [WallaceMartinsTI](https://github.com/WallaceMartinsTI)
+- Github - [WallaceMartinsTI](https://github.com/WallaceMartinsTI)
 - Frontend Mentor - [@WallaceMartinsTI](https://www.frontendmentor.io/profile/WallaceMartinsTI)
 - Twitter - [@Wallacexp159](https://twitter.com/wallacexp159)
 
