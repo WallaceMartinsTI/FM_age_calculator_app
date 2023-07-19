@@ -46,6 +46,7 @@ main {
   background-color: var(--white);
   min-width: 350px;
   max-height: 510px;
+  margin-top: 1em;
   border-radius: 15px 15px 60px 15px;
   padding: 2em 1em;
   display: flex;
