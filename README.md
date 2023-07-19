@@ -6,8 +6,8 @@ This is a solution to the [Age Calculator App](https://www.frontendmentor.io/cha
 
 ## 🔗 Links
 
-- Solution URL: [Click here](https://github.com/WallaceMartinsTI/FM_intro_section_with_dropdown_navigation)
-- Live Site URL: [Click here](https://github.com/WallaceMartinsTI/FM_age_calculator_app)
+- Solution URL: [Click here](https://github.com/WallaceMartinsTI/FM_age_calculator_app)
+- Live Site URL: [Click here](https://wallacemartinsti.github.io/FM_age_calculator_app/)
 
 ## 🛠️ Built with
 
