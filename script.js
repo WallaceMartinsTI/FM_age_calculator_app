@@ -30,6 +30,7 @@ function submit() {
     monthField.innerHTML = age.months;
     dayField.innerHTML = age.days;
   } else {
+    alert("Invalid values, check the fields and try again");
     return;
   }
 }
@@ -50,8 +51,16 @@ function checkErrors() {
     errorMessage: "",
   };
 
-  // if error in all fields
+  // check if all fields are numbers
   if (
+    isNaN(Number(dayInputField.value)) ||
+    isNaN(Number(monthInputField.value)) ||
+    isNaN(Number(yearInputField.value))
+  ) {
+    error.hasError = true;
+
+    // if error in all fields
+  } else if (
     (dayInput < 1 || dayInput > totalDays) &&
     (monthInput < 1 || monthInput > 12) &&
     (yearInput < 1900 || yearInput > actualYear)
